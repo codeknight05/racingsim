@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778115900, guid: b8535f898910b5d4ebb7a7c6a7dded9b, type: 3}
+  m_Name: PERRINN 424 Dual-MGU Torque Maps
+  m_EditorClassIdentifier: 
+  settings:
+    packPowerMax: 750
+    packPowerMin: -450
+    packTorqueOverrun: -350
+    packPowerOverrun: -50
+    powerBalanceDrive: 0.5
+    powerBalanceDriveShape: 2
+    powerBalanceOverrun: 0.1
+    powerBalanceRegen: 0.65
+    powerBalanceRegenShape: 0.75
+    packBrakeGain: 33
+    clutch: 0.1
+    limiter: 1
+    limiterRamp: 0.03
+    powerRampStart: 1
+    powerRampEnd: 2
+    inertiaFront: 1
+    inertiaRear: 1
+    muFront: 1
+    muRear: 1
+    maxRpmFront: 2800
+    maxRpmRear: 2800
+    efficiencyZeroRpmFront: 0.85
+    efficiencyZeroRpmRear: 0.85
+    efficiencyPeakFront: 0.96
+    efficiencyPeakRear: 0.96
+    efficiencyPeakRpmFront: 2000
+    efficiencyPeakRpmRear: 2000
+    maxPowerFront: 375
+    maxPowerRear: 375
+    unrestrictedPowerFront: 900
+    unrestrictedPowerRear: 900
+    throttleShape: 1.6
+    brakeShape: 1
+    hydraulicBrakeGain: 100
+    hydraulicBrakeBalance: 0.65

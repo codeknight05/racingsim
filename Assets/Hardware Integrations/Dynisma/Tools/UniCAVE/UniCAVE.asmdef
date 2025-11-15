@@ -1,0 +1,19 @@
+{
+    "name": "UniCAVE",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Mirror",
+        "Mirror.Components",
+        "UnityVersionCompatibility"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
