@@ -1,4 +1,4 @@
-#### Components
+## Components
 
 Components must support the same operations supported by built-in Unity components without issues, including:
 
